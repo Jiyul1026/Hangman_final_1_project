@@ -22,6 +22,8 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
+
+//±ê ¿¬°á µÆ³ª
 public class Hangman_main extends JFrame {
 
 	private JPanel contentPane;
