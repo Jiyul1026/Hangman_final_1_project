@@ -24,10 +24,11 @@ import javax.swing.border.EmptyBorder;
 
 public class Hangman_main extends JFrame {
 
+	//±êÇé Å×½ºÆ®!
 	private JPanel contentPane;
 	private Image background=new ImageIcon(Hangman_main.class.getResource("../image/background.png")).getImage();
-	public static int cnt2=0;		//hangman_game_1pÀÇ ÃÑ Å¬¸¯ È½¼ö
-	public static int cnt3=0;		//hangman_game_2pÀÇ ÃÑ Å¬¸¯ È½¼ö222
+	public static int cnt2=0;		//hangman_game_1pÀÇ ÃÑ Å¬¸¯ È½¼ö 
+	public static int cnt3=0;		//hangman_game_2pÀÇ ÃÑ Å¬¸¯ È½¼ö
 	Hangman_btnSound btnSound = new Hangman_btnSound();
 	Hangman_bgmSound bgmSound = new Hangman_bgmSound();
 	Hangman_coinSound coinSound = new Hangman_coinSound();
