@@ -25,7 +25,7 @@ import javax.swing.border.EmptyBorder;
 
 //±ê ¿¬°á µÆ³ª
 public class Hangman_main extends JFrame {
-
+	//³ëÆ®ºÏ Ä¿¹Ô½ÇÇè
 	private JPanel contentPane;
 	private Image background=new ImageIcon(Hangman_main.class.getResource("../image/background.png")).getImage();
 	public static int cnt2=0;		//hangman_game_1pÀÇ ÃÑ Å¬¸¯ È½¼ö
