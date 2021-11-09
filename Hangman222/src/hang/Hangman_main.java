@@ -37,7 +37,7 @@ public class Hangman_main extends JFrame {
 	public static int cntStr;
 	public static int cntStr2;
 	JButton btn_duo;
-
+	//¼öÁ¤
 	public static Image backk=new ImageIcon(Hangman_result_1p.class.getResource("../image/mback.png")).getImage();
 	public static int back1X;
 	
